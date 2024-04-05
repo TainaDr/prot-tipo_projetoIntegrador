@@ -1,6 +1,7 @@
-# prot-tipo_projetoIntegrador
+# protótipo_projetoIntegrador
 
 Protótipo de aplicativo para celular a fim de auxiliar no ensino da educação ambiental direcionado às abelhas sem ferrão.
+
 Cores:
 As cores amarelo e verde, foram escolhidas na intenção de remeter elementos de natureza e abelhas, além de que a cor verde traz paz e tranquilidade, transmitindo segurança, a cor amarela ajuda a chamar atençaõ a detalhes importantes, deixando o usuário atento.
 
